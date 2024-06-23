@@ -1,4 +1,4 @@
-# Servire Semi-Autonomă realizată de un robot chelner
+# Servire semi-autonomă utilizând un robot chelner
 
 ## Descriere
 Proiectul integrează un program Arduino și o interfață Python pentru facilitarea serviciilor semi-autonome în restaurante prin intermediul unui robot chelner. Utilizatorii pot configura spațiul restaurantului prin intermediul unei interfețe intuitive, plasând elemente cum ar fi drumuri, mese și bucătăria pe o hartă virtuală.
